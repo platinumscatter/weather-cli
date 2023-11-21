@@ -1,1 +1,1 @@
-# weather-cli
+# Simple weather cli
